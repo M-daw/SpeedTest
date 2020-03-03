@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test the speed of the web analyzed on https://developers.google.com/speed/pagespeed/insights, and records it, on mobile and on desktop. Repeats 5 times, and tests two urls. Repeats with .times method</description>
+   <name>TestSpeed- v1.1-times_repeats-for_urls</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb2806c7-692c-405c-a58f-be2a2837b423</testCaseGuid>
+</TestCaseEntity>

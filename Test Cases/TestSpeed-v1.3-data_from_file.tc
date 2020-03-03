@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test the speed of the web analyzed on https://developers.google.com/speed/pagespeed/insights, and records it, on mobile and on desktop.  Repeats 5 times, and tests two urls. Repeats with .times method, iterates urls with for..in</description>
+   <name>TestSpeed-v1.3-data_from_file</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>549d80e2-5562-4f23-a1dd-c07ffd725346</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5a84ce54-1ffb-4c80-9d95-0659f7c9109b</id>
+      <masked>false</masked>
+      <name>visible_name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d3db68c8-62c0-42df-b395-044ed97036bf</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

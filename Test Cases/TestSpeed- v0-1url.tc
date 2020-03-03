@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test the speed of the web analyzed on https://developers.google.com/speed/pagespeed/insights, and records it, on mobile and on desktop</description>
+   <name>TestSpeed- v0-1url</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0baaefe-561c-426e-a0d3-24d135849f53</testCaseGuid>
+</TestCaseEntity>
